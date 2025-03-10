@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid blue;
+  height: 100%;
+}
+
+.form {
+  border: 2px solid red;
+}
